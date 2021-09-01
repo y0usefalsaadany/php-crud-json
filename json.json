@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "yousef",
+        "job": "backend developer",
+        "email": "yousef@gmail.com",
+        "city": "mansoura",
+        "age": 19
+    },
+    {
+        "id": 2,
+        "name": "ahmed magdy",
+        "job": "bug hunter",
+        "email": "ahmedmagdy@gmail.com",
+        "city": "mansoura",
+        "age": 19
+    },
+    {
+        "id": 3,
+        "name": "abaziz",
+        "job": "full stack developer",
+        "email": "abaziz@gmail.com",
+        "city": "cairo",
+        "age": 18
+    },
+    {
+        "id": 4,
+        "name": "ahmed mohamed",
+        "job": "data science",
+        "email": "ahmedmo@gmail.com",
+        "city": "cairo",
+        "age": 22
+    },
+    {
+        "id": 5,
+        "name": "yaser",
+        "job": "java developer",
+        "email": "yaser@gmail.com",
+        "city": "mansoura",
+        "age": 25
+    }
+]
